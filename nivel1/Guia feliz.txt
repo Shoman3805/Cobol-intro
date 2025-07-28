@@ -1,0 +1,9 @@
+ej1- Print hola mundo
+ej2- Input usuario
+ej3- Input suma		
+ej4- Promedio de tres
+ej5- Par o impar
+ej6- Area de un rectangulo
+ej7- Printea una tabla de multiplicar
+ej8- Ingresa una edad 
+ej9- Printea la suma de todos los numeros pares hasta el 100
