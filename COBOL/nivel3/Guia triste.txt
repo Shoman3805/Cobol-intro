@@ -1,0 +1,6 @@
+ej1- Leer nombres
+ej2- Guarda el texto
+ej3- Lee nombre edad, sueldo y sueldo neto por separado
+ej4- Invierte todas las filas de un archivo de texto
+ej5- Filtra todas las lineas cuyo campo precio sea menor a 1000
+ej6- Cuenta la cantidad de lineas

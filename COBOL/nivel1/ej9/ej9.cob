@@ -1,0 +1,18 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. EJERCICIO1.
+
+       ENVIRONMENT DIVISION.
+
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       01 ITERADOR PIC 9(3).
+       01 SUMA PIC 9(4).
+       01 RES PIC 9(2).
+       PROCEDURE DIVISION.
+           
+           PERFORM UNTIL ITERADOR = 100
+           ADD 2 TO ITERADOR
+           ADD ITERADOR TO SUMA 
+           END-PERFORM
+           DISPLAY SUMA
+           STOP RUN.
