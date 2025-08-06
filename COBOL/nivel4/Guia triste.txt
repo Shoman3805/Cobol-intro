@@ -1,0 +1,5 @@
+1- llama a un subprograma que permite ingresar un imput y luego lo printea desde el main
+2- llama un subprograma para hacer una suma
+3- ''''''''''''''''''''' para ver si un numero es par o no
+4- ''''''''''''''''''''' para calcular un promedio
+5- llama a distintos subprogramas para mostrar usuario, edad basandose en una fecha fija y el año de nacimiento 
